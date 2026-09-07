@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Sada",
+    "last_name": "Spenwick",
+    "email": "sada@example.com",
+    "gender": "Female",
+    "job_title": "Programmer Analyst II"
+  },
+  {
+    "id": 2,
+    "first_name": "Geri",
+    "last_name": "Batteson",
+    "email": "geri@example.com",
+    "gender": "Male",
+    "job_title": "Software Consultant"
+  },
+  {
+    "id": 3,
+    "first_name": "Ankit",
+    "last_name": "Sharma",
+    "email": "ankit@example.com",
+    "gender": "Male",
+    "job_title": "Backend Developer"
+  },
+  {
+    "id": 4,
+    "first_name": "Rahul",
+    "last_name": "Verma",
+    "email": "rahul@example.com",
+    "gender": "Male",
+    "job_title": "Frontend Developer"
+  },
+  {
+    "id": 5,
+    "first_name": "Priya",
+    "last_name": "Mehta",
+    "email": "priya@example.com",
+    "gender": "Female",
+    "job_title": "Data Analyst"
+  },
+  {
+    "id": 6,
+    "first_name": "Neha",
+    "last_name": "Kapoor",
+    "email": "neha@example.com",
+    "gender": "Female",
+    "job_title": "Software Engineer"
+  },
+  {
+    "id": 7,
+    "first_name": "Arjun",
+    "last_name": "Singh",
+    "email": "arjun@example.com",
+    "gender": "Male",
+    "job_title": "DevOps Engineer"
+  },
+  {
+    "id": 8,
+    "first_name": "Riya",
+    "last_name": "Joshi",
+    "email": "riya@example.com",
+    "gender": "Female",
+    "job_title": "UI/UX Designer"
+  },
+  {
+    "id": 9,
+    "first_name": "Vikas",
+    "last_name": "Agarwal",
+    "email": "vikas@example.com",
+    "gender": "Male",
+    "job_title": "Full Stack Developer"
+  },
+  {
+    "id": 10,
+    "first_name": "Simran",
+    "last_name": "Chauhan",
+    "email": "simran@example.com",
+    "gender": "Female",
+    "job_title": "Project Manager"
+  }
+]
